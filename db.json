@@ -1,0 +1,88 @@
+{
+  "todos": [
+    {
+      "id": "405a333b-a5ad-4982-8ca1-37d4a9479f99",
+      "title": "faire le coursss",
+      "status": "important",
+      "date": "6/22/2024"
+    },
+    {
+      "id": "084f0188-e7c9-4ddb-92e5-a59a068799fe",
+      "title": "payer les factures",
+      "status": "important",
+      "date": "6/22/2024"
+    },
+    {
+      "id": "5af98a49-884c-4d9a-8ab0-912c530bdbe0",
+      "title": "appeler hopital",
+      "status": "défaut",
+      "date": "6/22/2024"
+    },
+    {
+      "id": "e8dffde1-2777-4806-9d33-e653277a2af9",
+      "title": "écrire les notes",
+      "status": "défaut",
+      "date": "6/22/2024"
+    },
+    {
+      "id": "01574386-c647-4b68-bd9d-35372cba7e7d",
+      "title": "répéter javascript",
+      "status": "travail",
+      "date": "6/22/2024"
+    },
+    {
+      "id": "4b1b99ef-3e63-4471-963b-78b5e452c6b6",
+      "title": "next js travailler",
+      "status": "travail",
+      "date": "6/22/2024"
+    },
+    {
+      "id": "ce2e5a97-5bb1-4f55-9f08-cf4bdf36dbe2",
+      "title": "faire un project",
+      "status": "important",
+      "date": "6/22/2024"
+    },
+    {
+      "id": "77818f99-130d-4f9b-94b5-b959566710ff",
+      "title": "envoyer les lettres",
+      "status": "important",
+      "date": "6/22/2024"
+    },
+    {
+      "id": "c3b301bf-bf61-4de8-8db3-a55f6241be56",
+      "title": "aprendre node js",
+      "status": "travail",
+      "date": "6/22/2024"
+    },
+    {
+      "id": "4804d2aa-c83f-4445-b061-9f73aefe8a7c",
+      "title": "lire le livre",
+      "status": "défaut",
+      "date": "6/22/2024"
+    },
+    {
+      "id": "56e66053-6914-4b57-8b70-c57333ce32eb",
+      "title": "randonner",
+      "status": "défaut",
+      "date": "6/22/2024"
+    },
+    {
+      "id": "d35683d1-077f-4e50-b538-9c0041f7aeed",
+      "title": "rendez-vous",
+      "status": "important",
+      "date": "6/22/2024"
+    },
+    {
+      "id": "ef6c4be5-a048-4823-a6f8-d1a190172f08",
+      "title": "backend",
+      "status": "travail",
+      "date": "6/22/2024"
+    },
+    {
+      "id": "3cf7a7a6-e60e-4657-b35e-49e77b647de9",
+      "title": "react",
+      "status": "travail",
+      "date": "6/22/2024"
+    }
+  ]
+}
