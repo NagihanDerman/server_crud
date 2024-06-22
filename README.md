@@ -26,3 +26,7 @@
 ### Récupération des données
 
 - Pour récupérer les données, utilisez useEffect et axios pour envoyer une requête GET à JSON Server :
+
+## GIF
+
+<img src="servercrud.gif"/>
